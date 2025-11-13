@@ -28,7 +28,7 @@
   "main": "./dist/js/npm",
   "repository": {
     "type": "git",
-    "url": "https://github.com/twithers/bootstrap.git"
+    "url": "git+https://github.com/twithers/bootstrap.git"
   },
   "bugs": {
     "url": "https://github.com/twithers/bootstrap/issues"
