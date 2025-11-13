@@ -1,5 +1,5 @@
 {
-  "name": "entreprise7pro-bootstrap",
+  "name": "tbdcommon-bootstrap",
   "buildName": "bootstrap",
   "description": "A jQuery v4 compatible version of the most popular front-end framework for developing responsive, mobile first projects on the web.",
   "version": "3.4.8",
@@ -28,10 +28,10 @@
   "main": "./dist/js/npm",
   "repository": {
     "type": "git",
-    "url": "https://github.com/entreprise7pro/bootstrap.git"
+    "url": "https://github.com/twithers/bootstrap.git"
   },
   "bugs": {
-    "url": "https://github.com/entreprise7pro/bootstrap/issues"
+    "url": "https://github.com/twithers/bootstrap/issues"
   },
   "license": "MIT",
   "dependencies": {
